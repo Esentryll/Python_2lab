@@ -18,8 +18,6 @@ print("Count valid records " + str(valid))
 print("Count invalid records " + str(invalid))
 print(result)
 
-"""writer = write_file(args.output)
-writer.write_(writer.parse_valid())"""
 
 
 
